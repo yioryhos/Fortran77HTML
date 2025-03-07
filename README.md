@@ -2,8 +2,8 @@
 
 ## We are able to write Fortran inside HTML and see the results in the DOM
 
-SETTING UP
-==========
+Setting up
+----------
 
 Upload the files index.html and ajax.js at you server. 
 
