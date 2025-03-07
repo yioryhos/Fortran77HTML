@@ -13,4 +13,8 @@ Open <b>index.html</b> with your browser and check that you see the 20 <i>'Hello
 #### Home page
 https://f77link.mysch.gr
 
-This work is based on the CERNLIB library
+#### Read the COMIS.ps
+Check the dosument to see which commands 
+
+#### Based on
+The <a href='' target='_blank'>CERNLIB</a> library
