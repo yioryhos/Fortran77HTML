@@ -10,7 +10,7 @@
 
 - Open <b>index.html</b> with your browser and check that you see the 20 <i>'Hello from Fortran'</i> paragraphs created with inline fortran!
   
-That is all! Yes it is that simple !!!
+That is all!
 
 #### Home page
 https://f77html.mysch.gr
