@@ -15,7 +15,7 @@ That is all!
 #### Home page
 https://f77html.mysch.gr
 
-Visit my home page and check how to generate also beautiful plots from inside HTML without additional actions and downloads!
+Visit my home page for examples, and to check how to generate also <b>beautiful plots</b> from inside HTML without additional actions and downloads!
 #### Read the COMIS.ps
 Check the dosument to see details about the f77 commands.
 
