@@ -15,7 +15,8 @@ That is all!
 #### Home page
 https://f77html.mysch.gr
 
-Visit my home page for examples, and to check how to generate also <b>beautiful plots</b> from inside HTML with Fortran using the DISLIN plotting library (allready included in comis.cgi fiel) without additional actions or downloads!
+Visit my home page for examples, and also to check how to generate <b>beautiful plots</b> with Fortran inside HTML using the DISLIN plotting library (allready included in the precompiled comis.cgi file, so no furthur actions required!).
+
 #### Read the COMIS.ps
 Check the document (pages 9 -14) to see details about the f77 commands.
 
