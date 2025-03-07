@@ -5,8 +5,8 @@
 Setting up
 ----------
 
-Upload the files index.html and ajax.js at you Linux server. 
+Upload the files <b>index.html</b> and <b>ajax.js</b> at you Linux server. 
 
-Also the files comis.cgi and main.cgi with permissions 755.
+Also the files <b>comis.cgi</b> and <b>main.cgi</b> with permissions 755.
 
 Open index.html with your browser and check that you see the 20 'Hello from Fortran' paragraphs created with inline fortran!
