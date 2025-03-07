@@ -9,5 +9,4 @@ Upload the files index.html and ajax.js at you server.
 
 Also the files comis.cgi and main.cgi with permissions 755.
 
-At the bottom of your page and after the DOM elements with id 'div-1', 'div-2', etc exist, the trigger() function sends the code for interpretation to the .cgi files.
-
+Open index.html with your browser and check that you see the 20 'Hello from Fortran' paragraphs created with inline fortran!
