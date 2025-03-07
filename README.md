@@ -13,7 +13,7 @@
 That is all!
 
 #### Home page
-https://f77link.mysch.gr
+https://f77html.mysch.gr
 Visit my home page and check how to genarate also beautifull plots!
 
 #### Read the COMIS.ps
