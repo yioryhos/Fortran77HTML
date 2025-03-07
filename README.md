@@ -9,6 +9,7 @@
 - Also the files <b>comis.cgi</b> and <b>main.cgi</b> with permissions 755.
 
 - Open <b>index.html</b> with your browser and check that you see the 20 <i>'Hello from Fortran'</i> paragraphs created with inline fortran!
+That is all!
 
 #### Home page
 https://f77link.mysch.gr
