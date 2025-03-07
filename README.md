@@ -2,5 +2,5 @@
 
 embed fortran code inside HTML
 
-!(h77html.png)
+!(logo.png)
 
