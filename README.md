@@ -23,3 +23,6 @@ Check the document (pages 9 -14) to see details about the f77 commands.
 #### Based on
 - The <a href='https://paw.web.cern.ch/paw/' target="_blank">CERNLIB</a> library
 - The <a href='https://www.dislin.de/' target="_blank">DISLIN</a> ploting library
+
+#### Bugs
+The routine <b>frame</b> in Dislin is not working and it does not showing an error message too. Avoid it until a fix is available.
