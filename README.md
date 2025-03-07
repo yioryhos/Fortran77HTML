@@ -12,9 +12,11 @@
 
 #### Home page
 https://f77link.mysch.gr
+Visit my home page and check how to genarate also beautifull plots!
 
 #### Read the COMIS.ps
-Check the dosument to see which commands 
+Check the dosument to see details about the f77 commands.
 
 #### Based on
 The <a href='' target='_blank'>CERNLIB</a> library
+The <a href='' target='_blank'>DISLIN</a> ploting library
