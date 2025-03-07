@@ -2,5 +2,5 @@
 
 embed fortran code inside HTML
 
-([logo.png](https://github.com/yioryhos/f77html/blob/F77HTML/logo.png))
+![alt text]([logo.png](https://github.com/yioryhos/f77html/blob/F77HTML/logo.png))
 
