@@ -26,11 +26,3 @@ Check the document (pages 9 -14) to see details about the f77 commands.
 
 #### Bugs
 The routine <b>frame</b> in Dislin is not working and it does not showing an error message too. Avoid it until a fix is available.
-
-#### Donations
-If you think that this work is a good work and you can affort to support it, you may donate by clicking the button below.
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="5NZPQ8MQDX972" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" width="100" />
-<form>
