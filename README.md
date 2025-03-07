@@ -5,7 +5,7 @@
 Setting up
 ----------
 
-Upload the files index.html and ajax.js at you server. 
+Upload the files index.html and ajax.js at you Linux server. 
 
 Also the files comis.cgi and main.cgi with permissions 755.
 
