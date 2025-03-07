@@ -17,7 +17,7 @@ https://f77html.mysch.gr
 
 Visit my home page for examples, and to check how to generate also <b>beautiful plots</b> from inside HTML without additional actions or downloads!
 #### Read the COMIS.ps
-Check the dosument to see details about the f77 commands.
+Check the document (pages 9 -14) to see details about the f77 commands.
 
 #### Based on
 - The <a href='https://paw.web.cern.ch/paw/' target="_blank">CERNLIB</a> library
