@@ -4,7 +4,9 @@
 
 <table><tr><td width="400">
 <code>&lt;template id="fortran-1">  
-do i = 1, 100
+integer k
+k = 2 * 50
+do i = 1, k
   print*, int(rnd()*1000+1
 enddo
 &lt;/template>
