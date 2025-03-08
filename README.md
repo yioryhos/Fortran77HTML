@@ -8,7 +8,7 @@ Simple and clean procedure to genarate dynamic pages with the power of Fortran i
 integer k
 k = 2 * 50
 do i = 1, k
-  print*, int(rnd()*1000+1
+  print*, int(rnd()*1000), ','
 enddo
 &lt;/template>
 </code>
