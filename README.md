@@ -1,4 +1,4 @@
-<img src="https://github.com/yioryhos/f77html/blob/F77HTML/logo.png" style="width:200px;border:solid 1px orange;float:right"/>
+<img src="https://github.com/yioryhos/f77html/blob/F77HTML/logo.png" style="width:260px;border:solid 1px orange;float:right"/>
 
 ### Write Fortran 77 code inside HTML and see the results in the DOM!
 
