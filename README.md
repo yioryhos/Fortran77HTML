@@ -3,7 +3,7 @@
 ### Write Fortran code inside HTML and see the results in the DOM!
 Simple and clean procedure to genarate dynamic pages with the power of Fortran inside HTML without installing or building anything!
 
-<table><tr><td style="width:50%">
+<table><tr><td width="350px">
 <code>&lt;template id="fortran-1">  
 integer k
 k = 2 * 50
