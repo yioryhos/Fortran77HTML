@@ -24,7 +24,7 @@ enddo
 
 - Also the files <b>comis.cgi</b> and <b>main.cgi</b> with permissions 755. (all files ~ 3MB)
 
-- Open <b>index.html</b> with your browser and check that you see the colored <em>'Hello from Fortran'</em> paragraphs created with inline fortran!
+- Open <b>index.html</b> with your browser and check that you see the randomly colored <em>'Hello from Fortran'</em> paragraphs created with inline fortran!
   
 That is all!
 
