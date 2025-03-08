@@ -1,6 +1,6 @@
 <img src="https://github.com/yioryhos/f77html/blob/F77HTML/logo.png" style="width:220px;border:solid 1px orange;float:laft"/>
 
-### Write Fortran 77 code inside HTML and see the results in the DOM!
+### Write Fortran code inside HTML and see the results in the DOM!
 This is indeed very good news. Simple and clean procedure to genarate dynamic pages with the power of Fortran inside HTML without installing or building anything!
 
 <table><tr><td width="400">
