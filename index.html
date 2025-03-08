@@ -6,22 +6,24 @@
 </head>
 <body>
 	
-<header>
-	<h2>test page - f77html</h2>
-</header>
+<header><h2>test page - f77html</h2></header>
 	
-<h2>Iinterpret Fortran code</h2>
+<h2>Interpret Fortran code</h2>
 
 <div id="div-1"></div>	
 
 <template id='fortran-1'>
-	do i = 1, 20
-	print*, '<p>', i, '. Hello from FORTRAN ! </p>'
+	integer k
+	k = 10
+	do i = 1, k
+	print*, '<p style="color:rgb(',int(rnd()*250),',',
+		int(rnd()*250),',',int(rnd()*250),'")>', 
+		i, '. Hello from FORTRAN !',int(1000*rnd()),'</p>'
 	enddo
 </template>
 	
 <script>trigger();</script>
 	
-<!-- THE ABOVE CALL MUST BE AT THE END OF THE PAGE, AFTER THE RESULTS ELEMENT(S) HAS BEEN CREATED (div-1, 2, ...).
-	IT SENDS THE F77 CODE FROM fortran-1 (2, 3 ...) TEMPLATE(S) TO THE INTERPRETER -->
+<!-- THE ABOVE CALL MUST BE AT THE END OF THE PAGE, AFTER THE RESULTS ELEMENT HAS BEEN CREATED (div-1).
+	 IT SENDS THE F77 CODE FROM fortran-1 TEMPLATE TO THE INTERPRETER -->
 </body>
